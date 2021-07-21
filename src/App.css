@@ -55,6 +55,10 @@ h2{
   font-weight: 600;
 }
 
+/* #navbarNav{
+  justify-content: flex-end;
+} */
+
 @media (min-width: 0px) and (max-width: 480px) {
   .container {
     padding: 25px
